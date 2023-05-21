@@ -29,5 +29,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "> React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management and is part of the \"Modern React Front To Back\" Udemy course",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
